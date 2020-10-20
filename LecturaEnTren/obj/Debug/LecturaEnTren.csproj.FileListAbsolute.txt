@@ -1,0 +1,7 @@
+C:\Users\shini\Desktop\KODIGO\C#\LecturaEnTren\bin\Debug\LecturaEnTren.exe.config
+C:\Users\shini\Desktop\KODIGO\C#\LecturaEnTren\bin\Debug\LecturaEnTren.exe
+C:\Users\shini\Desktop\KODIGO\C#\LecturaEnTren\bin\Debug\LecturaEnTren.pdb
+C:\Users\shini\Desktop\KODIGO\C#\LecturaEnTren\obj\Debug\LecturaEnTren.csprojAssemblyReference.cache
+C:\Users\shini\Desktop\KODIGO\C#\LecturaEnTren\obj\Debug\LecturaEnTren.csproj.CoreCompileInputs.cache
+C:\Users\shini\Desktop\KODIGO\C#\LecturaEnTren\obj\Debug\LecturaEnTren.exe
+C:\Users\shini\Desktop\KODIGO\C#\LecturaEnTren\obj\Debug\LecturaEnTren.pdb
